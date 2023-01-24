@@ -1,5 +1,5 @@
 # Ignores a file called .env
-*.env
+.env
 
 # Ignore all files starting with the letter z
 z*
